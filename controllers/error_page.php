@@ -6,4 +6,3 @@
             echo 'Page is not found!!!';
         }
     }
-?>

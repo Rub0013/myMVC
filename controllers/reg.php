@@ -8,4 +8,3 @@
             $this->view->render('reg');
         }
     }
-?>

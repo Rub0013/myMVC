@@ -15,4 +15,3 @@
         }    
     }
     echo controller_reg::rrr($email,$pass);
-?>
